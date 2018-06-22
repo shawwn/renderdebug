@@ -1,0 +1,7 @@
+PhysX: nvcuda.dll not found or could not be loaded. : ..\..\pxtask\src\CUDA\CudaContextManager.cpp : 629
+PhysX: NVIDIA Release 331 graphics driver and above is required for GPU acceleration. : ..\..\pxtask\src\CUDA\CudaContextManager.cpp : 357
+Console Help: 3 commands registered.
+help                           : Displays list of registered commands
+profile                        : Usage: profile <effectName> <instanceCount> <frameCount>
+rolling_average                : Usage: rolling_average <average-frame-count>
+
